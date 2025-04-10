@@ -7,6 +7,4 @@ Includes training notebooks and image output samples.
 - `6-2_GAN.ipynb`: Basic GAN
 - `6-3_DCGAN.ipynb`: DCGAN version
 
-## Folders
-- `data/`: Training data
-- `img/`: Generated output
+
